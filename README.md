@@ -38,10 +38,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tonpseudo&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical&count_private=true" alt="Langages les plus utilisés"/>
-</p>
+---
 
+## 🚀 Mes chiffres clés
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-1000%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projets-25-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langage%20favori-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
