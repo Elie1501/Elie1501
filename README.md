@@ -59,8 +59,6 @@ Sécurisation d'API REST et de flux de paiement en production, avec une logique 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elie1501&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie1501&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=Elie1501&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
-
 </div>
 
 ### Contribution Activity
@@ -89,4 +87,4 @@ Sécurisation d'API REST et de flux de paiement en production, avec une logique 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliechicha1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elie-chicha-060505300/)
 
-</div># Elie1501
+</div>
