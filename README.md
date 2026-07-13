@@ -9,7 +9,7 @@
 
 ---
 
-### About
+### About Me
 
 Bachelor Concepteur Développeur d'Applications (CDA) — ORT Montreuil, après un BTS SIO SLAM.
 Développeur full stack en freelance, spécialisé sur des architectures SaaS complètes (frontend, backend, base de données, paiement, déploiement) avec une approche orientée sécurité dès la conception.
@@ -72,10 +72,12 @@ Sécurisation d'API REST et de flux de paiement en production, avec une logique 
 
 ### Projects
 
-| Projet | Stack | Description |
-|---|---|---|
+| Projet                                                                     | Stack | Description |
+|----------------------------------------------------------------------------|---|---|
 | [WeddingInvitationSaaS](https://github.com/Elie1501/WeddingInvitationSaaS) | Vue 3, FastAPI, PostgreSQL, Docker, Stripe | SaaS complet de sites d'invitation mariage — wizard de configuration, gating premium, sécurisation du paiement, stockage S3, gestion RSVP |
-| Veliko | Symfony, Java | Application de gestion de vélos en libre-service |
+| SaasAuditCyber                                                             | Symfony, PHP, Python, PostgreSQL | SaaS d'audit cybersécurité pour PME/agences web : scan de failles, explication en langage clair, priorisation des corrections | 
+| Veliko                                                                     | Symfony, Java | Application de gestion de vélos en libre-service |
+| Etc....  |
 
 ---
 
