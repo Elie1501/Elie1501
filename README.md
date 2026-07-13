@@ -86,4 +86,4 @@ Sécurisation d'API REST et de flux de paiement en production, avec une logique 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliechicha1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elie-chicha-060505300/)
 
-</div>
+</div> 
